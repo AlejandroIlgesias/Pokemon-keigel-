@@ -1,1 +1,1 @@
-# Pokemon-keigel-
+Utilizo un bucle para acceder a cada línea del archivo csv,dentro de una estructura try-except por si surge algún error.Teniendo en cuenta la distribución de los datos den el csv meto en una lista las palabras de cada línea,y las añado a una lista.Elimino el primer elemento de cada lista por que se trata de una cadena de caracteres alfabeticosy me quedo con el resto de la lista.Después utilizo estas listas para obteener otra lista de numero para poder utilizar las funciones del modulo de estadistica y realizar el analisis eda.
